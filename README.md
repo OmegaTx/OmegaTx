@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmegaTx
-- 👀 I’m interested in DevOps/Security projects
-- 🌱 I’m currently learning DevOps tools and everything that can help me manage a system/project! Actually my studies are most focused in 
-Kubernetes/Docker/CI - CD/ but I know that I need to learn a lot of things to become a good DevOps follower!
+- 👀 I’m interested in Security projects
+- 🌱 I'm currently studying Web Application Pentest and security in general, my focus is to be a Red Teamer and in a future, a web application pentester.
 - 📫 That's my LinkedIn account: https://www.linkedin.com/in/guiamate/
 
 <!---
